@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,MACE,YAAa,CACb,qBAAsB,CACtB,oBAAqB,CACrB,kBACF,CAEA,IACE,iBACF","file":"main.3b19991b.chunk.css","sourcesContent":[".main {\n  display: flex;\n  flex-direction: column;\n  justify-items: center;\n  align-items: center;\n}\n\nimg {\n  border-radius: 5px;\n}\n"]}
